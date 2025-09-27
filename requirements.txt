@@ -1,3 +1,5 @@
+wfdb>=4.1.0
+pyedflib
 numpy
 scipy
 pandas
